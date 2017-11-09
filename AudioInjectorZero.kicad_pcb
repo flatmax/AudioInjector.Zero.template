@@ -3,7 +3,7 @@
   (general
     (links 16)
     (no_connects 16)
-    (area 101.194286 94.8598 199.842768 163.844481)
+    (area 104.424999 94.8598 169.575001 128.338421)
     (thickness 1.6)
     (drawings 28)
     (tracks 7)
@@ -88,7 +88,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory flax.project21/))
+      (outputdirectory gerbers))
   )
 
   (net 0 "")
